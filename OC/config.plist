@@ -413,6 +413,8 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
+				<key>AAPL00,override-no-connect</key>
+				<data>AP///////wBNEFMUAAAAACgZAQSlIxN4Dt5Qo1RMmSYPUFQAAAABAQEBAQEBAQEBAQEBAQEBGjaAoHA4H0AwIDUAWsIQAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gAxMjAzTYFMUTE1Nk0xAAAAAAACQQMoABIAAAoBCiAgAEo=</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>AAAbWQ==</data>
 				<key>device-id</key>
@@ -1356,7 +1358,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>0</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1598,11 +1600,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02V809RHV29WVPJA</string>
+			<string>C02848902GUHWVPUE</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>JVzQluhm</data>
+			<data>GE8y8iK/</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -1610,7 +1612,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02V809RHV29</string>
 			<key>SystemUUID</key>
-			<string>73936E84-9437-4004-9D57-1D540D1C591D</string>
+			<string>ED8BBECB-0237-493B-ADC3-D9BA0E1F440C</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
